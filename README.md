@@ -1,11 +1,11 @@
 ```sql
--- A bit about me 🧐
+-- A bit about me 
 
 -- Creating a fictional table named 'rishabh' to store my bio information
 CREATE TABLE rishabh (
-    name VARCHAR(50),
+    name VARCHAR(7),
     about TEXT,
-    profession VARCHAR(100),
+    working on VARCHAR(100),
     learning VARCHAR(200),
     collaboration_interests VARCHAR(500),
     interests TEXT,
@@ -15,13 +15,13 @@ CREATE TABLE rishabh (
 -- Inserting data into the table 'rishabh'
 INSERT INTO rishabh (name, about, profession, learning, collaboration_interests, interests, email)
 VALUES (
-    'Nikhil',
-    'Hi, this is Nikhil 👋',
-    'Backend Developer',
-    'Deep Learning and Neural Networks',
+    'Rishabh Bhurli',
+    'Hi, this is Rishabh',
+    'HTML CSS and JS',
+    'JavaScript',
     'Collaborate on Open-Source projects',
     'Exploring different technologies',
-    'nikhil25803@gmail.com'
+    'iamrishabh9@gmail.com'
 );
 
 -- Querying the 'rishabh' table to display my bio
