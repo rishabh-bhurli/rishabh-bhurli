@@ -1,16 +1,26 @@
-### Hi there 👋
+`A bit about me 🧐`
+```python
+$ pip install nikhil25803
+Collecting nikhil25803
+  Downloading nikhil25803-0.1.tar.gz (5.7 kB)
+  Preparing metadata (setup.py) ... done
 
-<!--
-**rishabh-bhurli/rishabh-bhurli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Installing collected packages: nikhil25803
+Successfully installed nikhil25803-0.1
 
-Here are some ideas to get you started:
+$ python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>>> from nikhil25803 import README
+>>> README.md()
+
+{
+    "About" : "Hi, Nikhil this side 👋",
+    "I'm" : "Into Backend Development",
+    "Learning" : "Deep Learning and Neural Networks",
+    "Looking to " : "Collaborate on Open-Source projects",
+    "Loves to" : "Explore different technologies",
+    "Reach me at" : "nikhil25803@gmail.com"
+}
+
+>>> exit()
+```
