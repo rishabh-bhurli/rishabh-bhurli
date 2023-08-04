@@ -1,4 +1,5 @@
--- A bit about me 
+```sql
+-- A bit about me 🧐
 
 -- Creating a fictional table named 'rishabh' to store my bio information
 CREATE TABLE rishabh (
