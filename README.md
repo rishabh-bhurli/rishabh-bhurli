@@ -16,7 +16,7 @@ VALUES (
     'Rishabh Bhurli',
     'Hi, this is Rishabh',
     'HTML CSS and JS',
-    'JavaScript',
+    'JavaScript and React',
     'Collaborate on Open-Source projects',
     'Exploring different technologies',
     'iamrishabh9@gmail.com'
